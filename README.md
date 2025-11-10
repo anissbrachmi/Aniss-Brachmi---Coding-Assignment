@@ -25,7 +25,7 @@ All learning outcomes were achieved, including:
 4. Click **Run (Do)** or type `do final.do` in the Command window.  
 5. The code will create processed datasets, summary tables, and graphs automatically.
 
-#### **Stata Script (`final.do`)**
+#### **Stata Script (`final.do`)** - Python script ('football_analysis')
 
 ```stata
 // final.do
