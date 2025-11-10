@@ -17,7 +17,7 @@ All learning outcomes were achieved, including:
 
 ## ⚙️ How to Reproduce the Analysis
 
-### 🔹 **Stata Implementation**
+### 🔹 **Stata and Python Implementation**
 
 1. Open **Stata**.  
 2. Set your working directory to the project’s root folder.  
@@ -66,7 +66,7 @@ twoway (connected home_win season), ///
 graph export "output/figures/stata_home_win_rate_by_season.png", replace
 restore
 
-### 🔹 **Python Implementation**
+####  **Python script ('football_analysis.py)***
 
 cd "C:\Users\YOURNAME\Documents\Aniss Brachmi - Coding Assignment\code\python"
 
